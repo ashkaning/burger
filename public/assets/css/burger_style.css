@@ -1,0 +1,22 @@
+body{
+    background-color: #cbeb18;
+}
+.row{
+    margin-top:50px;
+}
+.img-thumbnail{
+    border: none !important;
+    background-color: transparent;
+}
+hr{
+    margin-top:30px;
+    border-top: 1px solid #cbeb18;
+    box-shadow: 5px 5px 5px 5px #42491c;;
+}
+.list-group-item{
+    background-color: transparent;
+    padding: 7px;
+    border: 1px solid rgba(0,0,0,0.5);
+    margin-bottom: 2px;
+    font-weight: bold;
+}
